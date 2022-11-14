@@ -2,6 +2,8 @@ package hibernate_project;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+
+//This is The HIBERNATE_PROJECT, Connecting through GITHUB
 @Entity
 public class ClassRoom 
 {
